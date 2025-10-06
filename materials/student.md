@@ -18,7 +18,7 @@
 |   6 | GAVENESH A/L BATUMALAI                     |    |        |          |           |
 |   7 | HARITZ HAYKAL BIN NAZRUL HISHAM            |    |        |          |           |
 |   8 | HENG ZHI QIANG                             |    |        |          |           |
-|   9 | HONG JIA BAO                               |    |        |          |           |
+|   9 | HONG JIA BAO                               |   HONGJIABAO |        |          |           |
 |  10 | IDA YATULLAILIYEH BINTI AMRUN              |    |        |          |           |
 |  11 | JOSHUA LING SHANG YANG                     |    |        |          |           |
 |  12 | KALAITHARAN A/L PALANYVELU                 |    |        |          |           |
